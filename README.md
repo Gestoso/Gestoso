@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on  Juniper Travel Technologies
   
-- 🌱 I’m currently learning Laravel, React y GitHub
+- 🌱 I’m currently learning Laravel, Node and GitHub
   
 - 👯 I’m looking to collaborate on Projects
   
